@@ -16,7 +16,7 @@ namespace ByValByRef
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmByValByRef());
+            Application.Run(new FrmByValByRef());
         }
     }
 }
